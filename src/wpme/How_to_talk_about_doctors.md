@@ -3,6 +3,8 @@
 ## 1. internist          : 内科医生
 
 1. internus             :内部  inside 
+       - internal：内部的
+       - intern(n):实习生
 
 ## 2. gynecologist       : 妇科医生   
 
